@@ -1,12 +1,12 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=d91c25&height=260&section=header&text=%E9%AB%98%E6%BA%90%E6%B5%A9&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%E7%BB%86%E5%BF%83%E4%BB%8E%E6%AF%8F%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%BB%86%E8%8A%82%E5%BC%80%E5%A7%8B&descAlignY=55&descAlign=60"
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=d91c25&height=260&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Undergraduate%20%40%20Southeast%20University&descAlignY=55&descAlign=60"
         width="100%" />
 </div>
 
-## 👋 你好，我是高源浩！
-**东南大学软件工程（本科）在读｜关注多模态学习与不平衡学习**
+## 👋 Hi, I'm Yuanhao Gao!
+**Software Engineering (B.Eng) student @ Southeast University | Multimodal Learning & Imbalanced Learning**
 
-邮箱: [726940262@qq.com](mailto:726940262@qq.com) &nbsp;&nbsp;|&nbsp;&nbsp; 电话: 18108242046
+Email: [726940262@qq.com](mailto:726940262@qq.com)
 
 <p align="left">
     <img src="https://img.shields.io/badge/Java-d91c25?style=flat-square&logo=openjdk&logoColor=white" />
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-## 👨‍💻 关于我 
+## 👨‍💻 About Me
 
-我目前在东南大学软件工程专业学习
+I'm currently studying Software Engineering at Southeast University and exploring research topics around multimodal learning and imbalanced learning.
 
