@@ -1,10 +1,9 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=d91c25&height=260&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Undergraduate%20%40%20Southeast%20University&descAlignY=55&descAlign=60"
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=d91c25&height=260&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=70&animation=fadeIn&fontAlignY=38"
         width="100%" />
 </div>
 
 ## 👋 Hi, I'm Yuanhao Gao!
-**Software Engineering (B.Eng) student @ Southeast University | Multimodal Learning & Imbalanced Learning**
 
 Email: [726940262@qq.com](mailto:726940262@qq.com)
 
