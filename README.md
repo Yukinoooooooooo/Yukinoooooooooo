@@ -17,5 +17,5 @@ Email: [726940262@qq.com](mailto:726940262@qq.com)
 
 ## 👨‍💻 About Me
 
-I'm currently studying Software Engineering at Southeast University and exploring research topics around multimodal learning and imbalanced learning.
+I'm currently studying Software Engineering at Southeast University and exploring research topics around multimodal learning and imbalanced learning. I'm interested in the embodied AI and robotics! 
 
