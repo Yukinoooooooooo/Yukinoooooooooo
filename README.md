@@ -42,3 +42,16 @@ I'm currently studying **Software Engineering at Southeast University**.
 My research interests mainly focus on **multimodal learning**, **imbalanced learning**, and their potential applications in **embodied AI and robotics**.
 
 I’m especially interested in how large models can be connected with physical agents, enabling AI systems to perceive, reason, and act in the real world.
+
+## 📊 GitHub Stats
+
+<div align="center">
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=Yukinoooooooooo&show_icons=true&theme=default&hide_border=true" 
+        width="48%" 
+    />
+    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukinoooooooooo&layout=compact&hide_border=true" 
+        width="36%" 
+    />
+</div>
