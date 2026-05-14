@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./IMG_8438.jpg" width="86%" />
-
-<br/><br/>
-
 <h1>👋 Hi, I'm Yuanhao Gao</h1>
 
 <h3>Software Engineering Student @ Southeast University</h3>
@@ -53,23 +49,22 @@ My research interests mainly focus on **multimodal learning**, **imbalanced lear
 ## 🛠️ Tech Stack
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,linux,git,vscode" />
+    <img src="https://img.shields.io/badge/C++-d91c25?style=for-the-badge&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-d91c25?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-d91c25?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Current Focus
 
-<div align="center">
-    <img 
-        src="https://github-readme-stats.vercel.app/api?username=Yukinoooooooooo&show_icons=true&hide_border=true&title_color=d91c25&icon_color=d91c25" 
-        width="48%" 
-    />
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukinoooooooooo&layout=compact&hide_border=true&title_color=d91c25" 
-        width="36%" 
-    />
-</div>
+- Multimodal learning and model generalization
+- Imbalanced learning in deep learning systems
+- Embodied AI and robotics
+- Deep learning experiments with PyTorch
 
 ---
 
