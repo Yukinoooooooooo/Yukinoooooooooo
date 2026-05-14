@@ -1,26 +1,21 @@
 <div align="center">
 
-<img src="./IMG_8438.jpg" width="88%" />
+<img src="./IMG_8438.jpg" width="86%" />
 
 <br/><br/>
 
 <h1>👋 Hi, I'm Yuanhao Gao</h1>
 
-<p>
-    <b>Software Engineering Student @ Southeast University</b>
-</p>
+<h3>Software Engineering Student @ Southeast University</h3>
 
 <p>
-    Interested in 
-    <b>Multimodal Learning</b>, 
-    <b>Imbalanced Learning</b>, 
-    <b>Embodied AI</b> and 
-    <b>Robotics</b>.
+    Exploring <b>Multimodal Learning</b>, <b>Imbalanced Learning</b>, 
+    <b>Embodied AI</b> and <b>Robotics</b>.
 </p>
 
 <p>
     <a href="mailto:726940262@qq.com">
-        <img src="https://img.shields.io/badge/Email-726940262%40qq.com-d91c25?style=flat-square&logo=gmail&logoColor=white" />
+        <img src="https://img.shields.io/badge/Email-726940262%40qq.com-d91c25?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </p>
 
@@ -38,20 +33,48 @@
 
 ## 👨‍💻 About Me
 
-I'm currently studying **Software Engineering at Southeast University**.  
-My research interests mainly focus on **multimodal learning**, **imbalanced learning**, and their potential applications in **embodied AI and robotics**.
+I'm currently studying **Software Engineering at Southeast University**.
 
-I’m especially interested in how large models can be connected with physical agents, enabling AI systems to perceive, reason, and act in the real world.
+My research interests mainly focus on **multimodal learning**, **imbalanced learning**, and their potential applications in **embodied AI and robotics**. I’m especially interested in how large models can be connected with physical agents, enabling AI systems to perceive, reason, and act in the real world.
+
+---
+
+## 🔬 Research Interests
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Multimodal%20Learning-d91c25?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Imbalanced%20Learning-000000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Embodied%20AI-d91c25?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Robotics-000000?style=for-the-badge" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,linux,git,vscode" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
     <img 
-        src="https://github-readme-stats.vercel.app/api?username=Yukinoooooooooo&show_icons=true&theme=default&hide_border=true" 
+        src="https://github-readme-stats.vercel.app/api?username=Yukinoooooooooo&show_icons=true&hide_border=true&title_color=d91c25&icon_color=d91c25" 
         width="48%" 
     />
     <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukinoooooooooo&layout=compact&hide_border=true" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukinoooooooooo&layout=compact&hide_border=true&title_color=d91c25" 
         width="36%" 
     />
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! ⭐
+
 </div>
